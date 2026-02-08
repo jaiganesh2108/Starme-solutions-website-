@@ -72,7 +72,7 @@ const team = [
   },
   {
     name: 'Muthu Ganesh S',
-    role: 'HR',
+    role: 'Human Resources Manager',
     image: muthu,
     bio: 'Managing people operations, culture, and talent growth.',
   },
