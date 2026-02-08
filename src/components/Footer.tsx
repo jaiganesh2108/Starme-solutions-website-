@@ -18,10 +18,11 @@ const Footer = () => {
       { name: 'News & Press', href: '#' },
     ],
     services: [
-      { name: 'Cloud Solutions', href: '#services' },
-      { name: 'Custom Development', href: '#services' },
-      { name: 'Cybersecurity', href: '#services' },
-      { name: 'IT Consulting', href: '#services' },
+      { name: 'Web Application Development', href: '#services' },
+      { name: 'Mobile App Development', href: '#services' },
+      { name: 'AI & Chatbot Solutions', href: '#services' },
+      { name: 'Backend & Cloud Services', href: '#services' },
+      { name: 'UI, Poster & Card Design', href: '#services' },
     ],
     resources: [
       { name: 'Case Studies', href: '#testimonials' },

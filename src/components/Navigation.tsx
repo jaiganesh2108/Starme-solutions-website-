@@ -60,8 +60,8 @@ const Navigation = () => {
           />
 
           <h1
-            className="text-2xl font-black text-stone-900 tracking-tight uppercase"
-            style={{ fontFamily: "'Roboto Condensed', 'Impact', sans-serif" }}
+            className="text-1xl font-black text-stone-900 tracking-tight uppercase "
+            style={{ fontFamily: "'Roboto Condensed', 'Impact', sans-serif", color: "#2a286d"}}
           >
             SOLUTIONS
           </h1>

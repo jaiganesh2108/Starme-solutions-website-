@@ -36,7 +36,7 @@ const Team = () => {
 const team = [
   {
     name: 'Jai Ganesh H',
-    role: 'Founder & CEO',
+    role: 'Full-Stack Developer, Founder & CEO',
     image: Jai,
     bio: 'Founder driving vision, strategy, and overall execution of the company.',
   },
